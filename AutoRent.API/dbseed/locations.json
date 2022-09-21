@@ -1,0 +1,1464 @@
+﻿[
+  //nonso
+  {
+    "Id": "6ab4d922-a492-48b3-b706-ec30f0a4e601",
+    "StreetNumber": "32",
+    "Street": "Asajon Way",
+    "Area": "Sangotedo",
+    "State": "Lagos",
+    "PhoneNumber": "09053647431",
+    "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+    "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+    "Cars": [
+      {
+        "Id": "bb8e6e38-12d1-4130-97e6-abbee700b5e7",
+        "RentPricePerDay": 20000.0,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502805/AutoRent/FERRARI-FF-00_1_efu4nf.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502805/AutoRent/FF-1_zdsme5.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502804/AutoRent/Ferrari_FF_-_Flickr_-_Alexandre_Pr%C3%A9vot__2_c7xtj5.jpg"
+        ],
+        "PlateNumber": "LAG-1876",
+        "Mileage": 2300,
+        "Make": "Toyota",
+        "Model": "Camry",
+        "Trim": "2022 Camry LE",
+        "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+        "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+        "Status": 2,
+        "Bookings": [
+          {
+            "Id": "29b3168a-65cf-43a3-82c1-146a15b263b8",
+            "PickupDate": "2022-08-20T12:19:25.0299856+01:00",
+            "ReturnDate": "2022-08-20T12:19:25.0299856+01:00",
+            "PriceTotal": 40000.0,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "bec441d3-b900-421c-a891-da2f792bcdb3",
+              "Amount": 40000.0,
+              "Status": 1,
+              "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+              "UpdatedAt": "2022-08-20T12:20:25.0299856+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "1f9accbb-0362-4a05-93a1-a131de14eae3",
+            "PickupDate": "2022-08-20T12:19:25.0299856+01:00",
+            "ReturnDate": "2022-08-20T12:19:25.0299856+01:00",
+            "PriceTotal": 20000.0,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "6bee6c20-babd-4789-882e-f1aac3a8bc8f",
+              "Amount": 20000.0,
+              "Status": 1,
+              "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+              "UpdatedAt": "2022-08-20T12:20:25.0299856+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "a84750e4-b925-4b2b-9900-22fff0ef288b",
+            "Title": "Very Good Experience",
+            "Stars": 4,
+            "Review": "I enjoyed using the car",
+            "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          },
+          {
+            "Id": "db1e2f4c-3ce7-4ce5-9a01-765249cf4cec",
+            "Title": "",
+            "Stars": 3,
+            "Review": "",
+            "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+          }
+        ]
+      },
+      {
+        "Id": "c610723b-da44-413a-806c-fc2e3fe9ff41",
+        "RentPricePerDay": 40000.0,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502798/AutoRent/24776074705_d54a80f126_b_jpmlty.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502798/AutoRent/46266419171_b8daa53d2f_b_d1ltgc.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502795/AutoRent/images_lasndc.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502793/AutoRent/images_9_pexsa1.jpg"
+        ],
+        "PlateNumber": "LAG-8745",
+        "Mileage": 1200,
+        "Make": "Toyota",
+        "Model": "Camry",
+        "Trim": "2022 Camry XLE ",
+        "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+        "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+        "Status": 2,
+        "Bookings": [
+          {
+            "Id": "98acf367-f00f-4800-b4ed-afc4b2a808e4",
+            "PickupDate": "2022-10-20T12:19:25.0299856+01:00",
+            "ReturnDate": "2022-12-20T12:19:25.0299856+01:00",
+            "PriceTotal": 80000.0,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-10-20T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-12-20T12:19:25.0299856+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "4bad6521-d979-4d51-b4cf-10e69eb5b692",
+              "Amount": 80000.0,
+              "Status": 1,
+              "CreatedAt": "2022-10-20T12:19:25.0299856+01:00",
+              "UpdatedAt": "2022-10-20T12:20:25.0299856+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          },
+          {
+            "Id": "5570bcf2-b04b-489e-bfb5-fa6bfada3728",
+            "PickupDate": "2022-08-20T12:19:25.0299856+01:00",
+            "ReturnDate": "2022-08-20T12:19:25.0299856+01:00",
+            "PriceTotal": 40000.0,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "564c1b83-89df-47f6-87e3-eff39c4ded09",
+              "Amount": 40000.0,
+              "Status": 1,
+              "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+              "UpdatedAt": "2022-08-20T12:20:25.0299856+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "4760a959-8631-4f4e-9570-282a62a1eed1",
+            "Title": "Very Good Experience",
+            "Stars": 4,
+            "Review": "I enjoyed using the car",
+            "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          },
+          {
+            "Id": "8fc9d0f9-5486-4537-92cd-ccf964546f90",
+            "Title": "",
+            "Stars": 3,
+            "Review": "",
+            "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+          }
+        ]
+      },
+      {
+        "Id": "db7a396c-da74-4b50-b869-5bbb2568f078",
+        "RentPricePerDay": 35000.0,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502793/AutoRent/images_8_ayupb9.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502793/AutoRent/images_7_uvlxp2.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502793/AutoRent/images_6_w59dn0.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502805/AutoRent/hakon-sataoen-qyfco1nfMtg-unsplash_w4kvrv.jpg"
+        ],
+        "PlateNumber": "LAG-5463",
+        "Mileage": 23300,
+        "Make": "Toyota",
+        "Model": "Camry",
+        "Trim": "2009 Camry LE",
+        "CreatedAt": "2022-08-20T12:19:25.0299856+01:00",
+        "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+        "Status": 2,
+        "Bookings": [
+          {
+            "Id": "77577dd9-72ea-478d-8c9d-9e8d90c6f7ef",
+            "PickupDate": "2022-08-18T12:19:25.0299856+01:00",
+            "ReturnDate": "2022-08-20T12:19:25.0299856+01:00",
+            "PriceTotal": 75000.0,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-08-18T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-20T12:19:25.0299856+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "c2064f48-186e-4576-9e92-5ab77057afd7",
+              "Amount": 75000.0,
+              "Status": 1,
+              "CreatedAt": "2022-08-18T12:19:25.0299856+01:00",
+              "UpdatedAt": "2022-08-18T12:20:25.0299856+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "03220ad5-a9be-4ad7-a218-a8b2759ae84a",
+            "PickupDate": "2022-08-21T12:19:25.0299856+01:00",
+            "ReturnDate": "2022-08-22T12:19:25.0299856+01:00",
+            "PriceTotal": 35000.0,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-08-21T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-22T12:19:25.0299856+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "d51f9dfc-a1a1-4d76-8ce2-08495b800ed3",
+              "Amount": 35000.0,
+              "Status": 1,
+              "CreatedAt": "2022-08-21T12:19:25.0299856+01:00",
+              "UpdatedAt": "2022-08-22T12:20:25.0299856+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "d2942cdb-b415-42f2-9e6d-c9fcb982e6b8",
+            "Title": "Terrible Experience",
+            "Stars": 1,
+            "Review": "I almost got killed. How can you rent out such an old car???",
+            "CreatedAt": "2022-08-21T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-21T12:19:25.0299856+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          },
+          {
+            "Id": "a8c324c6-05aa-40b3-a37b-35a9af45f411",
+            "Title": "Great experience",
+            "Stars": 3,
+            "Review": "The car was in really good condition for a car of 2009.",
+            "CreatedAt": "2022-08-22T12:19:25.0299856+01:00",
+            "UpdatedAt": "2022-08-22T12:19:25.0299856+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+          }
+        ]
+      }
+    ]
+  },
+  //chekwube
+  {
+    "Id": "45f64109-441e-464e-838f-4f946c27901e",
+    "StreetNumber": "45 ",
+    "Street": "Danfodio",
+    "Area": "Tenant Road Aba State",
+    "State": "Abia State",
+    "PhoneNumber": "+2347077889900",
+    "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+    "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+    "Cars": [
+      {
+        "Id": "ee76d738-ffae-40a8-bcac-b507863b6694",
+        "RentPricePerDay": 76000.00,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502801/AutoRent/ToyotaCWhite_b1mywy.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502801/AutoRent/ToyotaCoroWhite_tfxzfe.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502793/AutoRent/images_8_ayupb9.jpg,"
+        ],
+        "PlateNumber": "AAA345LkF",
+        "Mileage": 567677,
+        "Make": "Toyota",
+        "Model": "Corola",
+        "Trim": "2000 Corola CX-6 ",
+        "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+        "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+        "Status": 2,
+        "Bookings": [
+          {
+            "Id": "cd83a90f-c507-4593-8db7-c8fdb300fe0c",
+            "PickUpDate": "2016-09-02T15:01:02.4096706+01:00",
+            "ReturnDate": "2016-09-02T15:01:02.4096706+01:00",
+            "PriceTotal": 1030000.00,
+            "BookingStatus": 2,
+            "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "07d3bfa5-0454-4a12-9f4c-18bebd0fb674",
+              "Amount": 20800.00,
+              "Status": 3,
+              "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+              "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          },
+          {
+            "Id": "a3abaec1-198b-4015-a518-7080d827cd99",
+            "PickUpDate": "2016-09-02T15:01:02.4096706+01:00",
+            "ReturnDate": "2016-09-02T15:01:02.4096706+01:00",
+            "PriceTotal": 1030000.00,
+            "BookingStatus": 1,
+            "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "906fc2c1-b042-4486-b85b-7b1db8db67d8",
+              "Amount": 20800.00,
+              "Status": 2,
+              "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+              "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "b4437e7c-b868-4132-a7ee-3e43e907e57f",
+            "Title": "Good",
+            "Stars": 3,
+            "Review": "I Enjoyed it but AC was not functioning",
+            "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+          },
+          {
+            "Id": "274a7904-f84c-4a91-9b2a-b4777884d6f3",
+            "Title": "Very Good",
+            "Stars": 4,
+            "Review": "I Enjoyed the car",
+            "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+          }
+        ]
+      },
+      {
+        "Id": "f09c8917-7d75-477d-8119-e3f2933908f2",
+        "RentPricePerDay": 86000.00,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502795/AutoRent/images_lasndc.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502793/AutoRent/images_9_pexsa1.jpg,",
+          "https://res.cloudinary.com/podb/image/upload/v1662502793/AutoRent/images_7_uvlxp2.jpg,"
+        ],
+        "PlateNumber": "FFF345LkF",
+        "Mileage": 5676657,
+        "Make": "Toyota",
+        "Model": "Lexus",
+        "Trim": "2022 Lexus C-470",
+        "CreatedAt": "2016-09-04T15:01:02.4096706+01:00",
+        "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+        "Status": 1,
+        "Bookings": [
+          {
+            "Id": "2c24627f-fcf7-4c24-86b9-f2429a2ae189",
+            "PickUpDate": "2016-09-08T15:01:02.4096706+01:00",
+            "ReturnDate": "2016-09-09T15:01:02.4096706+01:00",
+            "PriceTotal": 1040000.00,
+            "BookingStatus": 3,
+            "CreatedAt": "2016-09-04T15:01:02.4096706+01:00",
+            "UpdatedAt": "2016-09-05T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "05f652b8-3e14-4248-adbb-0349c648ba5c",
+              "Amount": 14800.00,
+              "Status": 2,
+              "CreatedAt": "2016-09-18T15:01:02.4096706+01:00",
+              "UpdatedAt": "2016-09-30T15:01:02.4096706+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          },
+          {
+            "Id": "da9b91ee-dddd-4cb3-93aa-4a08c86f24cd",
+            "PickUpDate": "2016-09-13T15:01:02.4096706+01:00",
+            "ReturnDate": "2016-09-13T15:01:02.4096706+01:00",
+            "PriceTotal": 2030000.00,
+            "BookingStatus": 2,
+            "CreatedAt": "2016-09-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2016-09-14T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "f816bdd7-0213-4a07-b7ef-fa6df3d0681a",
+              "Amount": 20800.00,
+              "Status": 1,
+              "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+              "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "68392dbc-4b3e-4987-9444-7b92a27b411a",
+            "Stars": 3,
+            "Review": "I Enjoyed it",
+            "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+          },
+          {
+            "Id": "dd9014cb-6a60-4cd2-bf9c-db1df638ff29",
+            "Title": "Good",
+            "Stars": 2,
+            "Review": "We Enjoyed the car",
+            "CreatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UpdatedAt": "2016-09-02T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      }
+
+    ]
+  },
+  //james
+  {
+    "Id": "b1d3fee6-aaaa-45ae-b014-1aaa19cc0c90",
+    "StreetNumber": 7,
+    "Street": "Sir James Estate",
+    "Area": "Sango",
+    "State": "Lagos",
+    "PhoneNumber": "23457689749343",
+    "CreatedAt": "2022-08-26T15:01:02.4096706+01:00",
+    "UpdatedAt": "2022-09-26T15:01:02.4096706+01:00",
+    "Cars": [
+      {
+        "Id": "a5823bf0-e293-4de4-8b48-422cd12f3bd8",
+        "RentPricePerDay": 24000,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502805/AutoRent/FF-1_zdsme5.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502805/AutoRent/FERRARI-FF-00_mm9qcu.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502804/AutoRent/Ferrari_FF_-_Flickr_-_Alexandre_Pr%C3%A9vot__2_c7xtj5.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502795/AutoRent/images_lasndc.jpg"
+        ],
+        "PlateNumber": "FSZ-9866",
+        "Mileage": 57437,
+        "Make": "Ferarri",
+        "Model": "Concept",
+        "Trim": "Tx50",
+        "CreatedAt": "2022-08-26T15:01:02.4096706+01:00",
+        "UpdatedAt": "2022-09-16T15:01:02.4096706+01:00",
+        "Status": 1,
+        "Bookings": [
+          {
+            "Id": "e9c8f2f9-2953-4015-8c03-2272f5b678c5",
+            "PickUpDate": "2012-08-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2012-08-26T15:01:02.4096706+01:00",
+            "PriceTotal": 25000,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-08-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-08-26T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "60519467-0283-4daf-b38c-42172459b55f",
+              "Amount": 25000,
+              "Status": 1,
+              "CreatedAt": "2022-08-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2022-08-26T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          },
+          {
+            "Id": "312b693f-5190-4f38-b267-a2b4dd0d2cd5",
+            "PickUpDate": "2022-09-03",
+            "ReturnDate": "2022-09-08",
+            "PriceTotal": 56000,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-04-14T15:01:02.4096706+01:00",
+            "CarId": "b1d3fee6-aaaa-45ae-b014-1aaa19cc0c90",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "6f7c239a-e1e4-4b51-87e2-5c587739adad",
+              "Amount": 56000,
+              "Status": 1,
+              "CreatedAt": "2020-03-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2022-01-14T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "7aa24861-65e8-4131-9976-068b7b56f633",
+            "PickUpDate": "2019-09-03",
+            "ReturnDate": "2020-09-03",
+            "PriceTotal": 45000,
+            "BookingStatus": 3,
+            "CreatedAt": "2021-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2020-07-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "894b90d8-dfa5-4e8b-9830-64ca46cc76f5",
+              "Amount": 45000,
+              "Status": 3,
+              "CreatedAt": "2022-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2021-03-13T15:01:02.4096706+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          },
+          {
+            "Id": "b9ef74fd-a601-4cd0-b4cd-871d792f6c81",
+            "PickUpDate": "2019-09-03",
+            "ReturnDate": "2019-10-02",
+            "PriceTotal": 45000,
+            "BookingStatus": 2,
+            "CreatedAt": "2022-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-06-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "d69129ba-ec1b-4a35-8a83-dcc0c10aaaf7",
+              "Amount": 45000,
+              "Status": 1,
+              "CreatedAt": "2012-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2012-11-14T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "dbc193e8-0c0c-4a60-a55b-840f896ac114",
+            "Title": "Sweet cruise",
+            "Stars": 5,
+            "Review": "Best comfort, it's second to none.",
+            "CreatedAt": "2011-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2011-02-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+          },
+          {
+            "Id": "d87b21db-9d88-4a7e-9433-aea8465ca4cf",
+            "Title": "Great comfort",
+            "Stars": 4,
+            "Review": "Exellent experience with no discomfort.",
+            "CreatedAt": "2011-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2011-04-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      },
+      {
+        "Id": "fbd01c10-5834-4800-b6f2-a04d339df9b7",
+        "RentPricePerDay": 48000,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502799/AutoRent/lincoln-model-l100-concept-exterior-7-1660854984_jt1lk7.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502798/AutoRent/lincoln-model-l100-concept-exterior_abcnuy.webp",
+          "https://res.cloudinary.com/podb/image/upload/v1662502798/AutoRent/lincoln-model-l100-concept-exterior_1_nndtou.webp",
+          "https://res.cloudinary.com/podb/image/upload/v1662502798/AutoRent/lincoln-l100-concept_awjago.jpg"
+        ],
+        "PlateNumber": "GSZ-8864",
+        "Mileage": 4437,
+        "Make": "Lincoln",
+        "Model": "Trad",
+        "Trim": "x50",
+        "CreatedAt": "2012-08-26T15:01:02.4096706+01:00",
+        "UpdatedAt": "2022-09-16T15:01:02.4096706+01:00",
+        "Status": 2,
+        "Bookings": [
+          {
+            "Id": "00f8ffac-edf2-4990-9d4b-f53dd4e47a75",
+            "PickUpDate": "2022-07-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2022-08-26T15:01:02.4096706+01:00",
+            "PriceTotal": 56000,
+            "BookingStatus": 2,
+            "CreatedAt": "2022-04-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-02-26T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "f4e3a8d8-51e2-4ec8-b328-db37da439e7b",
+              "Amount": 60000,
+              "Status": 1,
+              "CreatedAt": "2022-05-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2022-06-26T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          },
+          {
+            "Id": "17dae9ce-9ea2-401b-8c43-1b7e8003117b",
+            "PickUpDate": "2022-09-03",
+            "ReturnDate": "2022-09-08",
+            "PriceTotal": 56000,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-04-14T15:01:02.4096706+01:00",
+            "CarId": "b1d3fee6-aaaa-45ae-b014-1aaa19cc0c90",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "2a07845e-b143-4f6c-89b3-c5b1dee047ac",
+              "Amount": 56000,
+              "Status": 1,
+              "CreatedAt": "2022-03-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2022-04-14T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "7fff50df-189d-4f80-9cc9-7cb5bf28c10e",
+            "PickUpDate": "2022-03-16T15:01:02.4096706+01:00",
+            "ReturnDate": "2022-03-18T15:01:02.4096706+01:00",
+            "PriceTotal": 45000,
+            "BookingStatus": 2,
+            "CreatedAt": "2022-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-07-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "facee638-aed0-4193-b777-3a7f167c2174",
+              "Amount": 45000,
+              "Status": 3,
+              "CreatedAt": "2022-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2021-03-13T15:01:02.4096706+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          },
+          {
+            "Id": "ba114bd5-4562-4a4d-8cfe-770ac64383ea",
+            "PickUpDate": "2020-03-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2020-04-14T15:01:02.4096706+01:00",
+            "PriceTotal": 48000,
+            "BookingStatus": 1,
+            "CreatedAt": "2022-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-06-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "11027118-55b5-41ff-b499-e50a099de474",
+              "Amount": 48000,
+              "Status": 3,
+              "CreatedAt": "2021-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2021-11-14T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "1b50fd7a-b9e8-4be4-b9a5-258a153b27b9",
+            "Title": "Fantasitic",
+            "Stars": 5,
+            "Review": "Quiet comfort ride.",
+            "CreatedAt": "2011-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2011-02-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+          },
+          {
+            "Id": "1fa7d8cf-5b15-4e68-a79f-36c540452923",
+            "Title": "Just Ok",
+            "Stars": 3,
+            "Review": "Not so Exellent experience with much comfort.",
+            "CreatedAt": "2011-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2011-04-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      },
+      {
+        "Id": "d6dd3a9d-8ae2-45e0-8776-9d07317a98aa",
+        "RentPricePerDay": 80000,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502801/AutoRent/ToyotaCoroWhite_tfxzfe.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502801/AutoRent/ToyotaCWhite_b1mywy.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502801/AutoRent/ToyotaCoroWhite_tfxzfe.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502800/AutoRent/ToyotaCorolla_zpsvmk.webp"
+        ],
+        "PlateNumber": "SFZ-1864",
+        "Mileage": 44037,
+        "Make": "Toyota",
+        "Model": "Camry",
+        "Trim": "S20",
+        "CreatedAt": "2015-08-26T15:01:02.4096706+01:00",
+        "UpdatedAt": "2025-09-16T15:01:02.4096706+01:00",
+        "Status": 3,
+        "Bookings": [
+          {
+            "Id": "4610ba88-9c57-4a62-aeca-acfff9bbc3d9",
+            "PickUpDate": "2015-07-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2015-08-26T15:01:02.4096706+01:00",
+            "PriceTotal": 63000,
+            "BookingStatus": 1,
+            "CreatedAt": "2022-04-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-02-26T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "978530c6-e953-410b-ab6b-2a7d5f7d76cd",
+              "Amount": 63000,
+              "Status": 2,
+              "CreatedAt": "2015-05-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2015-06-26T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          },
+          {
+            "Id": "07f9a65b-f17c-4c69-b1a2-047984ec6d21",
+            "PickUpDate": "2016-07-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2016-07-26T15:01:02.4096706+01:00",
+            "PriceTotal": 56000,
+            "BookingStatus": 2,
+            "CreatedAt": "2013-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2014-04-14T15:01:02.4096706+01:00",
+            "CarId": "b1d3fee6-aaaa-45ae-b014-1aaa19cc0c90",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "9a602193-f7bc-4bad-ac5a-d174b8843232",
+              "Amount": 56000,
+              "Status": 1,
+              "CreatedAt": "2021-03-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2021-04-14T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "571665f3-5522-4ed9-b2ed-86608e8f0fe7",
+            "PickUpDate": "2020-03-16T15:01:02.4096706+01:00",
+            "ReturnDate": "2020-03-18T15:01:02.4096706+01:00",
+            "PriceTotal": 45000,
+            "BookingStatus": 1,
+            "CreatedAt": "2020-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2020-07-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "bb4455df-aaba-4fda-b229-6c8f82580cdf",
+              "Amount": 45000,
+              "Status": 1,
+              "CreatedAt": "2020-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2020-03-13T15:01:02.4096706+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          },
+          {
+            "Id": "d2db73e4-aabe-4d54-ae5f-78131686913b",
+            "PickUpDate": "2022-03-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2022-04-14T15:01:02.4096706+01:00",
+            "PriceTotal": 48000,
+            "BookingStatus": 1,
+            "CreatedAt": "2022-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-06-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "891a6c00-c7f2-4074-94a9-b3f49b33fcb7",
+              "Amount": 48000,
+              "Status": 3,
+              "CreatedAt": "2022-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2022-11-14T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "e6f10cff-0e33-4199-93b4-f3ad43b799ed",
+            "Title": "Awesome Awesome",
+            "Stars": 5,
+            "Review": "comfortable ride all the way.",
+            "CreatedAt": "2012-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2012-02-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+          },
+          {
+            "Id": "3370a1e4-78cb-446f-81aa-8928554057f9",
+            "Title": "Nice Nice",
+            "Stars": 4,
+            "Review": "Exellent experience with much comfort.",
+            "CreatedAt": "2013-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2013-04-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      }
+    ]
+
+  },
+  {
+    "Id": "af23c205-c08e-41e9-ac46-0f009ec9f8a5",
+    "StreetNumber": 17,
+    "Street": "Dr John Estate",
+    "Area": "Kuje",
+    "State": "Abuja",
+    "PhoneNumber": "01579674343",
+    "CreatedAt": "2012-08-26T15:01:02.4096706+01:00",
+    "UpdatedAt": "2012-09-26T15:01:02.4096706+01:00",
+    "Cars": [
+      {
+        "Id": "44202515-d529-43fd-98b9-90a32a3b7cdf",
+        "RentPricePerDay": 41000,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502803/AutoRent/campbell-3ZUsNJhi_Ik-unsplash_kfevum.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502803/AutoRent/Corolla_tkxmku.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502803/AutoRent/CorollaBlack_ttell6.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502803/AutoRent/Benzz_yhkgd4.jpg"
+        ],
+        "PlateNumber": "ZDE-0966",
+        "Mileage": 57437,
+        "Make": "Toyota",
+        "Model": "Celica",
+        "Trim": "T10s",
+        "CreatedAt": "2002-08-26T15:01:02.4096706+01:00",
+        "UpdatedAt": "2002-09-16T15:01:02.4096706+01:00",
+        "Status": 1,
+        "Bookings": [
+          {
+            "Id": "b6bca8db-ac29-473e-992d-0c3755a9a07f",
+            "PickUpDate": "2002-08-27T15:01:02.4096706+01:00",
+            "ReturnDate": "2002-08-29T15:01:02.4096706+01:00",
+            "PriceTotal": 70000,
+            "BookingStatus": 3,
+            "CreatedAt": "2022-08-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-08-26T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "8fea253a-4f16-44d1-916d-afb35bd1dd74",
+              "Amount": 70000,
+              "Status": 1,
+              "CreatedAt": "2002-08-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2002-08-26T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          },
+          {
+            "Id": "19c902bf-0c4f-4fba-902d-4fc0de442486",
+            "PickUpDate": "2012-08-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2012-08-14T15:01:02.4096706+01:00",
+            "PriceTotal": 56000,
+            "BookingStatus": 3,
+            "CreatedAt": "2012-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2012-04-15T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "b61df5ec-6af6-44c1-bd02-2455b4a7de69",
+              "Amount": 56000,
+              "Status": 2,
+              "CreatedAt": "2010-03-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2012-01-14T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "d128aa47-5a8f-49c1-b552-273c426092fe",
+            "PickUpDate": "2019-03-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2019-03-14T15:01:02.4096706+01:00",
+            "PriceTotal": 45000,
+            "BookingStatus": 3,
+            "CreatedAt": "2021-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2020-07-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "eea518f9-ec4a-4702-a4fb-eb7ba83553db",
+              "Amount": 45000,
+              "Status": 2,
+              "CreatedAt": "2012-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2011-03-13T15:01:02.4096706+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          },
+          {
+            "Id": "cf939707-c119-4f2e-9ee9-d9b8aca61a7e",
+            "PickUpDate": "2013-01-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2013-01-14T15:01:02.4096706+01:00",
+            "PriceTotal": 55000,
+            "BookingStatus": 3,
+            "CreatedAt": "2002-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2002-06-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "58acd2ca-4d8d-4643-a3f3-6de093f531f0",
+              "Amount": 55000,
+              "Status": 3,
+              "CreatedAt": "2011-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2011-11-14T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "d20ceec6-4cb4-4004-8bd4-85d0d1521de8",
+            "Title": "Poor experience",
+            "Stars": 1,
+            "Review": "The brake malfunctioned and caused an accident",
+            "CreatedAt": "2011-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2011-02-14T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+          },
+          {
+            "Id": "e41df721-70aa-4f5a-bb26-72be2164bfbb",
+            "Title": "Fantastic ride",
+            "Stars": 4,
+            "Review": "Experience a fantastic ride with no discomfort.",
+            "CreatedAt": "2011-01-12T15:01:02.4096706+01:00",
+            "UpdatedAt": "2011-04-15T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      },
+      {
+        "Id": "1ddfd019-466f-4e87-ba14-b7ff80ef3ef9",
+        "RentPricePerDay": 85000,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502802/AutoRent/BH650525_d5d281_pxm3lv.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502802/AutoRent/Benzzz_rbochz.webp",
+          "https://res.cloudinary.com/podb/image/upload/v1662502802/AutoRent/BlackBenz_cvvaqc.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502803/AutoRent/Benzz_yhkgd4.jpg"
+        ],
+        "PlateNumber": "KSZ-3864",
+        "Mileage": 4637,
+        "Make": "Mercedes-Benz",
+        "Model": "C",
+        "Trim": "230",
+        "CreatedAt": "2010-08-26T15:01:02.4096706+01:00",
+        "UpdatedAt": "2010-09-16T15:01:02.4096706+01:00",
+        "Status": 2,
+        "Bookings": [
+          {
+            "Id": "791d558e-d98b-47c5-80bc-57990967c0af",
+            "PickUpDate": "2012-07-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2012-08-26T15:01:02.4096706+01:00",
+            "PriceTotal": 52000,
+            "BookingStatus": 3,
+            "CreatedAt": "2012-04-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2012-02-26T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "90b1db04-2354-4d05-9b3c-6936f6072fb3",
+              "Amount": 62000,
+              "Status": 3,
+              "CreatedAt": "2012-05-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2012-06-26T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          },
+          {
+            "Id": "48aabb31-48cd-42ee-8ebe-e25b92c22ae8",
+            "PickUpDate": "2013-05-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2013-05-14T15:01:02.4096706+01:00",
+            "PriceTotal": 59000,
+            "BookingStatus": 1,
+            "CreatedAt": "2002-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2002-04-14T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "a23137a8-5630-4ed4-ba09-8f3355898b08",
+              "Amount": 59000,
+              "Status": 3,
+              "CreatedAt": "2012-03-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2012-04-14T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "8db483cb-0840-45ff-9805-e764fc7cb563",
+            "PickUpDate": "2012-03-16T15:01:02.4096706+01:00",
+            "ReturnDate": "2012-03-18T15:01:02.4096706+01:00",
+            "PriceTotal": 50000,
+            "BookingStatus": 1,
+            "CreatedAt": "2012-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2012-07-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "5d5a5088-251d-4978-8048-7665e0c17f8a",
+              "Amount": 50000,
+              "Status": 1,
+              "CreatedAt": "2002-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2002-03-13T15:01:02.4096706+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          },
+          {
+            "Id": "af6ce7f8-66ea-4cda-8da6-07483754b39d",
+            "PickUpDate": "2021-03-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2021-04-14T15:01:02.4096706+01:00",
+            "PriceTotal": 49000,
+            "BookingStatus": 3,
+            "CreatedAt": "2012-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2012-06-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "6abb5071-a8ad-40c6-8cda-1cd68d9bae79",
+              "Amount": 49000,
+              "Status": 3,
+              "CreatedAt": "2015-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2015-11-14T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "e4df920f-e2da-40fe-853a-21369f3e8b6d",
+            "Title": "Horrible",
+            "Stars": 1,
+            "Review": "Most horrible experience ever. Such should never be rented.",
+            "CreatedAt": "2016-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2017-02-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          },
+          {
+            "Id": "f4d6d2cc-4e93-4453-a292-3457078384f9",
+            "Title": "Nice car",
+            "Stars": 5,
+            "Review": "Exellent car, such amazing ride.",
+            "CreatedAt": "2001-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2001-04-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      },
+      {
+        "Id": "b01d0107-455b-4dc9-bf26-c8673d85602f",
+        "RentPricePerDay": 88000,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502799/AutoRent/maxresdefault_3_ooaaig.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502799/AutoRent/maxresdefault_4_e9cxpy.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502799/AutoRent/maxresdefault_1_iwxr4d.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502799/AutoRent/maxresdefault_4_e9cxpy.jpg"
+        ],
+        "PlateNumber": "WFZ-2854",
+        "Mileage": 43037,
+        "Make": "Ferrari",
+        "Model": "Power",
+        "Trim": "P20",
+        "CreatedAt": "2005-08-26T15:01:02.4096706+01:00",
+        "UpdatedAt": "2005-09-16T15:01:02.4096706+01:00",
+        "Status": 2,
+        "Bookings": [
+          {
+            "Id": "ccf97f8c-c3cc-4e29-b7be-1ae2fb9c5cd7",
+            "PickUpDate": "2005-07-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2005-08-26T15:01:02.4096706+01:00",
+            "PriceTotal": 62000,
+            "BookingStatus": 3,
+            "CreatedAt": "2015-04-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2017-02-26T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "de7cbf06-c207-4db8-8e7c-f7ef88acc1e1",
+              "Amount": 62000,
+              "Status": 3,
+              "CreatedAt": "2012-05-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2013-06-26T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          },
+          {
+            "Id": "cf2bccf7-9ff1-4096-b66d-5539dfe02179",
+            "PickUpDate": "2006-07-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2006-07-26T15:01:02.4096706+01:00",
+            "PriceTotal": 55000,
+            "BookingStatus": 3,
+            "CreatedAt": "2006-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2007-04-14T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "44f2979d-98ce-4e93-b739-578b15034bdf",
+              "Amount": 56000,
+              "Status": 1,
+              "CreatedAt": "2020-03-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2020-04-14T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "ba8d766f-2e24-44ee-bab8-9b902bcbfbcd",
+            "PickUpDate": "2012-03-16T15:01:02.4096706+01:00",
+            "ReturnDate": "2012-03-18T15:01:02.4096706+01:00",
+            "PriceTotal": 47000,
+            "BookingStatus": 3,
+            "CreatedAt": "2012-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2020-07-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "07451013-2e16-4609-9f4d-5d5a09e2a572",
+              "Amount": 65000,
+              "Status": 2,
+              "CreatedAt": "2014-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2018-03-13T15:01:02.4096706+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          },
+          {
+            "Id": "6825f1f7-271c-46f5-b3cf-58c845b0ed0c",
+            "PickUpDate": "2012-03-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2012-04-14T15:01:02.4096706+01:00",
+            "PriceTotal": 45000,
+            "BookingStatus": 3,
+            "CreatedAt": "2012-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-06-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "07829d32-551b-4102-8ceb-032156674677",
+              "Amount": 68000,
+              "Status": 2,
+              "CreatedAt": "2014-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2014-11-14T15:01:02.4096706+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "412d0eb9-aeb0-4f7c-9020-74a9d042c82f",
+            "Title": "Cool",
+            "Stars": 4,
+            "Review": "Had a cool ride.",
+            "CreatedAt": "2013-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2014-02-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+          },
+          {
+            "Id": "f1430827-0c6f-4a5d-87d6-48dc83e75d50",
+            "Title": "Bad car",
+            "Stars": 1,
+            "Review": "Poor experience riding.",
+            "CreatedAt": "2003-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2003-04-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      }
+    ]
+  },
+  //abosede
+  {
+    "Id": "da56f62f-b442-48bb-896f-f46bf2871296",
+    "StreetNumber": 2,
+    "Street": "Oluwasina Street Onijemo",
+    "Area": "Ogba",
+    "State": "Lagos",
+    "PhoneNumber": "2349033794950",
+    "CreatedAt": "2021-07-26T15:01:02.4096706+01:00",
+    "UpdatedAt": "2021-04-26T15:01:02.4096706+01:00",
+    "Cars": [
+      {
+        "Id": "caa0d763-7866-4abf-83fd-6ca4441acc71",
+        "RentPricePerDay": 6000,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502805/AutoRent/hakon-sataoen-qyfco1nfMtg-unsplash_w4kvrv.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502805/AutoRent/FERRARI-FF-00_mm9qcu.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502804/AutoRent/Ferrari_FF_-_Flickr_-_Alexandre_Pr%C3%A9vot__2_c7xtj5.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502802/AutoRent/car1_lvzzbg.jpg"
+
+
+        ],
+        "PlateNumber": "MUS-2817",
+        "Mileage": 1000,
+        "Make": "Lexus",
+        "Model": "RX350",
+        "Trim": "F4",
+        "CreatedAt": "2021-06-26T15:01:02.4096706+01:00",
+        "UpdatedAt": "2021-07-16T15:01:02.4096706+01:00",
+        "Status": 1,
+        "Bookings": [
+          {
+            "Id": "af5c23ec-fcd5-4606-a815-4eb0eb3130f5",
+            "PickUpDate": "2021-03-07",
+            "ReturnDate": "2021-03-22",
+            "PriceTotal": 9000,
+            "BookingStatus": 1,
+            "CreatedAt": "2021-05-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-05-26T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "129d00a7-513d-450c-a33e-57ef74e18431",
+              "Amount": 4500,
+              "Status": 3,
+              "CreatedAt": "2021-03-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2022-03-26T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "f783d20f-307d-4298-8166-77c38e2715bc",
+            "PickUpDate": "2021-07-02",
+            "ReturnDate": "2021-07-04",
+            "PriceTotal": 7000,
+            "BookingStatus": 2,
+            "CreatedAt": "2021-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2021-04-14T15:01:02.4096706+01:00",
+            "CarId": "0d0c74b3-28c1-49a3-b04e-67b488d3523c",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "a02d72a4-0062-4295-aab7-f60e585cb195",
+              "Amount": 13000,
+              "Status": 1,
+              "CreatedAt": "2022-07-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2021-04-14T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          },
+          {
+            "Id": "05706be5-512b-4b4c-b6eb-3e4d3094cb6f",
+            "PickUpDate": "2018-05-03",
+            "ReturnDate": "2021-05-03",
+            "PriceTotal": 16500,
+            "BookingStatus": 2,
+            "CreatedAt": "2021-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2020-07-14T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "7925a0a1-adc0-43e6-bafc-33d2766d5ff2",
+              "Amount": 16000,
+              "Status": 3,
+              "CreatedAt": "2022-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2021-03-13T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "9a6efd72-583c-4b29-9519-6ba2eebfdcfd",
+            "PickUpDate": "2022-09-03",
+            "ReturnDate": "2022-10-02",
+            "PriceTotal": 15000,
+            "BookingStatus": 1,
+            "CreatedAt": "2021-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2021-06-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "3e3ae08b-0da5-4149-b272-813f93876a00",
+              "Amount": 27000,
+              "Status": 2,
+              "CreatedAt": "2012-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2012-11-14T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "ee6be070-7420-497e-9076-1f832fae033f",
+            "Title": "Range Rover",
+            "Stars": 6,
+            "Review": "Customer Service is TopNotch",
+            "CreatedAt": "2018-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2018-02-14T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+          },
+          {
+            "Id": "dd4fa861-c5a4-4970-8cd0-ef0faf36ea2e",
+            "Title": "More Than perfect",
+            "Stars": 4,
+            "Review": "The products is in perfect condition.",
+            "CreatedAt": "2017-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2017-04-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      },
+      {
+        "Id": "27b562fc-ad79-4bf3-9f45-d52c55e3750c",
+        "RentPricePerDay": 50000,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502799/AutoRent/lincoln-model-l100-concept-exterior-7-1660854984_jt1lk7.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502798/AutoRent/lincoln-model-l100-concept-exterior_abcnuy.webp",
+          "https://res.cloudinary.com/podb/image/upload/v1662502798/AutoRent/lincoln-model-l100-concept-exterior_1_nndtou.webp",
+          "https://res.cloudinary.com/podb/image/upload/v1662502798/AutoRent/lincoln-l100-concept_awjago.jpg"
+        ],
+        "PlateNumber": "LND-8864",
+        "Mileage": 800,
+        "Make": "Toyota",
+        "Model": "Corrola",
+        "Trim": "F4",
+        "CreatedAt": "2022-08-26T15:01:02.4096706+01:00",
+        "UpdatedAt": "2022-09-16T15:01:02.4096706+01:00",
+        "Status": 2,
+        "Bookings": [
+          {
+            "Id": "0a021b17-bf56-4307-ba98-bc49b5aa966a",
+            "PickUpDate": "2021-07-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2021-08-26T15:01:02.4096706+01:00",
+            "PriceTotal": 10000,
+            "BookingStatus": 3,
+            "CreatedAt": "2018-04-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2018-02-26T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "fc25be36-ac1f-4a22-9604-1d220439c723",
+              "Amount": 20000,
+              "Status": 3,
+              "CreatedAt": "2021-08-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2022-03-26T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "c526c127-5913-4ac5-b66d-7bd0720407fe",
+            "PickUpDate": "2022-09-03",
+            "ReturnDate": "2021-09-08",
+            "PriceTotal": 40000,
+            "BookingStatus": 2,
+            "CreatedAt": "2018-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-04-14T15:01:02.4096706+01:00",
+            "CarId": "017a58cb-f749-4cc7-b5c6-aad6601446d7",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41",
+            "Payment": {
+              "Id": "82dca359-c7ba-4864-9cae-9ea0d5a5b3cb",
+              "Amount": 70000,
+              "Status": 1,
+              "CreatedAt": "2021-03-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2022-07-14T15:01:02.4096706+01:00",
+              "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+
+            }
+          },
+          {
+            "Id": "86d4c0dc-4380-4f10-bc33-6147dabd4f27",
+            "PickUpDate": "2021-03-16T15:01:02.4096706+01:00",
+            "ReturnDate": "2021-06-18T15:01:02.4096706+01:00",
+            "PriceTotal": 35000,
+            "BookingStatus": 1,
+            "CreatedAt": "2012-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2018-07-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "5c577bbc-3639-4bfa-a782-e1d62b55a91a",
+              "Amount": 55000,
+              "Status": 2,
+              "CreatedAt": "2021-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2022-03-13T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+
+            }
+          },
+          {
+            "Id": "688eb111-ae75-41f0-aa3d-809302c12aa9",
+            "PickUpDate": "2018-03-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2018-04-14T15:01:02.4096706+01:00",
+            "PriceTotal": 76000,
+            "BookingStatus": 2,
+            "CreatedAt": "2019-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2020-06-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "b00591da-efe6-4a7d-a1d8-dbed999c4391",
+              "Amount": 27000,
+              "Status": 1,
+              "CreatedAt": "2020-01-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2020-11-14T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "ec4d972f-9346-4afd-826a-2e560b764849",
+            "Title": "Amazing",
+            "Stars": 4,
+            "Review": "Amazing doing business with them",
+            "CreatedAt": "2020-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-07-14T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+          },
+          {
+            "Id": "980e500e-4285-41c2-8eea-998e0ff1de3e",
+            "Title": "Accurate",
+            "Stars": 5,
+            "Review": "It work well with what i presume in mind",
+            "CreatedAt": "2018-06-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2011-04-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      },
+      {
+        "Id": "b2097d63-5dcc-4264-99b0-d1697c26418c",
+        "RentPricePerDay": 64000,
+        "Images": [
+          "https://res.cloudinary.com/podb/image/upload/v1662502801/AutoRent/ToyotaCoroWhite_tfxzfe.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502803/AutoRent/campbell-3ZUsNJhi_Ik-unsplash_kfevum.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502801/AutoRent/ToyotaCoroWhite_tfxzfe.jpg",
+          "https://res.cloudinary.com/podb/image/upload/v1662502802/AutoRent/BH650525_d5d281_pxm3lv.jpg"
+        ],
+        "PlateNumber": "IKJ-1864",
+        "Mileage": 1200,
+        "Make": "Suzuki",
+        "Model": "Edge",
+        "Trim": "F8",
+        "CreatedAt": "2016-03-26T15:01:02.4096706+01:00",
+        "UpdatedAt": "2020-09-16T15:01:02.4096706+01:00",
+        "Status": 4,
+        "Bookings": [
+          {
+            "Id": "ac69d220-f8c6-4ac5-ae41-801995e414ce",
+            "PickUpDate": "2018-06-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2018-07-26T15:01:02.4096706+01:00",
+            "PriceTotal": 63000,
+            "BookingStatus": 1,
+            "CreatedAt": "2021-04-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-02-26T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "b90f0775-48cd-459c-a4a9-0dd8d34d9149",
+              "Amount": 75000,
+              "Status": 1,
+              "CreatedAt": "2017-05-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2019-06-26T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "2e78989d-fe32-4f52-b6d6-da3d521048db",
+            "PickUpDate": "2019-07-26T15:01:02.4096706+01:00",
+            "ReturnDate": "2019-07-26T15:01:02.4096706+01:00",
+            "PriceTotal": 50000,
+            "BookingStatus": 2,
+            "CreatedAt": "2015-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2018-04-14T15:01:02.4096706+01:00",
+            "CarId": "b5d6812b-c7a9-436d-8c81-976b94daea40",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "00d96ec8-8742-4422-aae1-45fbc4290e82",
+              "Amount": 80000,
+              "Status": 3,
+              "CreatedAt": "2022-03-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2025-04-14T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+            }
+          },
+          {
+            "Id": "8602921c-954b-4fb5-9ea2-07f0c02cc348",
+            "PickUpDate": "2021-07-16T15:01:02.4096706+01:00",
+            "ReturnDate": "2021-04-18T15:01:02.4096706+01:00",
+            "PriceTotal": 76000,
+            "BookingStatus": 2,
+            "CreatedAt": "2018-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2019-07-14T15:01:02.4096706+01:00",
+            "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59",
+            "Payment": {
+              "Id": "f5454b5e-8ff7-480f-b169-efb8f4024e0c",
+              "Amount": 39000,
+              "Status": 1,
+              "CreatedAt": "2017-05-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2017-07-13T15:01:02.4096706+01:00",
+              "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+
+            }
+          },
+          {
+            "Id": "1acb73cc-ed86-4752-87dc-9aa33bae41ba",
+            "PickUpDate": "2022-06-14T15:01:02.4096706+01:00",
+            "ReturnDate": "2022-08-14T15:01:02.4096706+01:00",
+            "PriceTotal": 78000,
+            "BookingStatus": 2,
+            "CreatedAt": "2019-03-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2022-09-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8",
+            "Payment": {
+              "Id": "60aa69a0-0939-49d4-b671-4e4cc91f68ec",
+              "Amount": 68000,
+              "Status": 3,
+              "CreatedAt": "2020-05-14T15:01:02.4096706+01:00",
+              "UpdatedAt": "2021-01-14T15:01:02.4096706+01:00",
+              "UserId": "d7666c14-1876-462f-ba7a-42f26b6bcf59"
+            }
+          }
+        ],
+        "Ratings": [
+          {
+            "Id": "f7774411-0de7-49a5-80f5-a3a1789655fa",
+            "Title": "Increadible",
+            "Stars": 5,
+            "Review": "I love the fact that the car is full option",
+            "CreatedAt": "2016-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2017-02-14T15:01:02.4096706+01:00",
+            "UserId": "5dcf4f6a-a6dd-4a2c-b1f3-0177a9d0ef41"
+          },
+          {
+            "Id": "77b128e1-fd36-4909-868f-df67ec678c2e",
+            "Title": "Not really cool",
+            "Stars": 2,
+            "Review": "The price is ok, but not really a pleasant experience",
+            "CreatedAt": "2015-01-14T15:01:02.4096706+01:00",
+            "UpdatedAt": "2016-04-14T15:01:02.4096706+01:00",
+            "UserId": "77649e72-f12b-43c6-866d-ac8be695c1a8"
+          }
+        ]
+      }
+    ]
+
+  }
+]
